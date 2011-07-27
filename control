@@ -1,0 +1,9 @@
+Package: com.vladkorotnev.sbfail
+Name: EvilJoke
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: WARNING! THIS WILL HIDE ANY TAPPED HOMESCREEN ICON! USE SAFE MODE TO REMOVE! EDUCATIONAL PURPOSES ONLY!
+Maintainer: Vladislav Korotnev
+Author: Vladislav Korotnev
+Section: Tweaks
